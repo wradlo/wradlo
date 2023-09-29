@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+![1635888133488 — resized](https://github.com/wradlo/wradlo/assets/112573119/6bcb9de0-bc0d-444b-a810-b7d26e694d90)
+
 My name is Wociech Radło.
 
 I am Machine Building MEng that is now in process of retraining myself and changing carrer path into IT/Data Science.
