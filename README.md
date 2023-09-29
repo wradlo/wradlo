@@ -1,5 +1,8 @@
 ### Hi there 👋
+My name is Wociech Radło.
 
+I am Machine Building MEng that is now in process of retraining myself and changing carrer path into IT/Data Science.
+Curently green and fresh in that field but hopefully getting colours soon and creating intresting programs.
 <!--
 **wradlo/wradlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
